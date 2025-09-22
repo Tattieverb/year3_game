@@ -1,5 +1,5 @@
 project(setup)
-cmake_minimal_required(VERSION 3.11)
+cmake_minimum_required(VERSION 3.11)
 # Require modern C++
 set(CMAKE_CXX_STANDARDS 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
